@@ -1,0 +1,3 @@
+How to Create a Module in Odoo?
+To create the structure of a module, you can use the scaffold command. This will automatically create an empty structure of a module.
+command: ./odoo-bin scaffold module_name custom_addons_location
