@@ -14,3 +14,5 @@ Step 2.
        where,
              IPv4 Address: 192.168.0.1
              Port: 8069
+>>> Run the Upgrade Command: Use the following command to upgrade the desired module. Replace <module_name> with the name of your module.
+       bash code: odoo -c /path/to/odoo.conf -u <module_name>
